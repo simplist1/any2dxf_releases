@@ -1,4 +1,4 @@
-# Sadecki AutoCAD Tools & Scripts - data.js Version
+#Tools & Scripts - data.js Version
 
 This version does NOT use `fetch("data.json")`.
 
