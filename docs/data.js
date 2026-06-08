@@ -52,6 +52,18 @@ window.SADECKI_TOOLS_DATA = {
       "downloadUrl": "https://github.com/simplist1/any2dxf_releases/releases/download/2027/Any2DXF2027_Setup.exe",
       "fileType": ".exe",
       "tags": ".NET 10, AutoCAD 2027, Civil3D 2027"
+    },
+    {
+      "id": "item_mq5q113t_5vqg8n",
+      "category": "scripts",
+      "subcategory": "LISP",
+      "name": "Least Squares Adjustment",
+      "version": "v0.0.1",
+      "description": "Adjusts selected CAD objects to match control points using move and rotate only.",
+      "releaseUrl": "https://github.com/simplist1/any2dxf_releases/releases/tag/lsp",
+      "downloadUrl": "https://github.com/simplist1/any2dxf_releases/releases/download/lsp/lsadjust.lsp",
+      "fileType": ".lsp",
+      "tags": "AutoCAD, Civil3D, LSP"
     }
   ]
 };
