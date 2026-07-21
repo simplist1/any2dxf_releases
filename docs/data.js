@@ -37,7 +37,7 @@ window.SADECKI_TOOLS_DATA = {
       "version": "v1.0.0",
       "description": "Import points as a DXF. Supports AutoCAD / Land Desktop 2000 and newer. Requires Visual Basic for 2007 and newer.",
       "releaseUrl": "https://github.com/simplist1/any2dxf_releases/releases/tag/2000",
-      "downloadUrl": "https://github.com/simplist1/any2dxf_releases/releases/download/2000/Any2DXF2000_Setup.exe",
+      "downloadUrl": "https://github.com/simplist1/any2dxf_releases/releases/download/2000/Any2DXF2000_1_2_Setup.exe",
       "fileType": ".exe",
       "tags": "AutoCAD 2000, Land Desktop, VBA"
     },
